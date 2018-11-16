@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "name": "GF1",
+      "value": 532
+    },
+    {
+      "name": "GF2",
+      "value": 532
+    },
+    {
+      "name": "FY3",
+      "value": 532
+    },
+    {
+      "name": "FY4",
+      "value": 532
+    },
+    {
+      "name": "terra",
+      "value": 532
+    },
+    {
+      "name": "modis",
+      "value": 532
+    },
+    {
+      "name": "环境1号",
+      "value": 532
+    },
+    {
+      "name": "环境2号",
+      "value": 532
+    }
+  ],
+  "putInStatis": [
+    {
+      "value": 335,
+      "name": "GF1"
+    },
+    {
+      "value": 325,
+      "name": "GF2"
+    },
+    {
+      "value": 234,
+      "name": "FY1"
+    },
+    {
+      "value": 300,
+      "name": "FY2"
+    }
+  ],
+  "realTimeData": [
+    {
+      "time": "6:00",
+      "value": 900
+    },
+    {
+      "time": "7:00",
+      "value": 600
+    },
+    {
+      "time": "8:00",
+      "value": 800
+    },
+    {
+      "time": "9:00",
+      "value": 500
+    },
+    {
+      "time": "10:00",
+      "value": 700
+    },
+    {
+      "time": "11:00",
+      "value": 600
+    },
+    {
+      "time": "12:00",
+      "value": 800
+    }
+  ]
+}
